@@ -8,17 +8,15 @@ A respectful French-language voice agent for debt collection, built in 2 hours u
 
 **Option 1: Call the Agent (Recommended)**
 ```
-Phone: +33 1 XX XX XX XX
+Phone: +1 (507) 702 4143
 ```
-*Replace with your actual Vapi phone number*
+
 
 **Option 2: Web Demo**
 ```
-https://vapi.ai/demo/your-demo-link
+[https://vapi.ai/demo/your-demo-link](https://www.loom.com/share/8ae1459db8a9451586336e28962473fe)
 ```
-*Click to start a browser-based call*
 
----
 
 ## 📋 What This Agent Does
 
@@ -195,7 +193,7 @@ See **test-report.md** for:
 
 ## 🎥 Demo Video
 
-**Loom Recording:** [Insert your Loom link here]
+**Loom Recording:** (https://www.loom.com/share/8ae1459db8a9451586336e28962473fe)
 
 Shows:
 - 2 live test calls in French
@@ -232,14 +230,6 @@ This is a working prototype. For production:
 
 ---
 
-## 📧 Contact
-
-For questions about this implementation:
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-
----
 
 ## 📜 License
 
@@ -252,4 +242,5 @@ This is a technical assessment project. Code and configurations are provided as-
 Built with:
 - [Vapi.ai](https://vapi.ai) - Voice AI platform
 - [ElevenLabs](https://elevenlabs.io) - French voice synthesis
+
 - [OpenAI GPT-4](https://openai.com) - Conversation logic
